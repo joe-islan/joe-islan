@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Joadson Islan
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Hoje trabalho sendo FullStack Laravel
 - 🌱 Estudando react native
 
 
